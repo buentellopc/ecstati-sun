@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import App from "./containers/App";
 import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
 import reportWebVitals from "./reportWebVitals";
+// hi
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
